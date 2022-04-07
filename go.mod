@@ -1,4 +1,4 @@
-module github.com/go-redis/redismock/v8
+module github.com/james-coopstools/redismock/v8
 
 go 1.15
 
